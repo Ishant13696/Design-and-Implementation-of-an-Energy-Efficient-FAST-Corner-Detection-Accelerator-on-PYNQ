@@ -98,4 +98,54 @@ Upload the `Server_PYNQ` directory to your PYNQ board.
 cd Server_PYNQ
 
 # Run the server with the bitstream
-sudo python3 server.py --bit design_1.bit
+sudo python3 server.py --bit fast_nms.bit
+```
+
+### 2. Client Setup (PC)
+Install the required Python packages:
+```bash
+# Navigate to the client directory
+cd Client_PC
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+Modify the IP address in `client.py` if necessary (Default is `192.168.3.1` for USB or `192.168.2.99` for Ethernet), then run the dashboard:
+```bash
+python3 client.py
+```
+
+## 📂 Project Structure
+```text
+FPGA-FAST-Corner-Detector/
+├── Client_PC/              # Host PC Application
+│   ├── client.py           # Main GUI Dashboard
+│   └── requirements.txt    # Python dependencies
+├── Server_PYNQ/            # PYNQ Application
+│   ├── server.py           # TCP Server & VDMA Controller
+│   ├── fast_nms.bit        # FPGA Bitstream
+│   └── fast_nms.hwh        # Hardware Handoff file
+├── Hardware_Source/        # FPGA HLS/Verilog Source Code
+│   ├── fast_corner.cpp     # FAST Algorithm Core
+│   └── fast_corner.h       # Header file
+├── Docs/                   # Documentation assets
+│   ├── demo.png
+│   ├── architecture.png
+│   ├── performance.png
+│   ├── utilization.png
+│   └── power.png
+└── README.md               # Project Documentation
+```
+
+## 👨‍💻 Author
+**Pin-Hao Chen (陳品澔)**
+* **Role**: Senior Undergraduate Student
+* **Institution**: Department of Electrical Engineering, National Chung Hsing University (NCHU)
+* **Focus**: Digital IC Design, FPGA Acceleration, Computer Architecture
+
+---
+
+## 📝 Dataset Acknowledgement
+This project uses the **EuRoC MAV Dataset** (MH_01_easy) for testing and verification.
+* [The EuRoC MAV Dataset](http://robotics.ethz.ch/~asl-datasets/ijrr_euroc_mav_dataset/)
